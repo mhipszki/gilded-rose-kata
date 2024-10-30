@@ -1,5 +1,7 @@
 # Gilded Rose Kata
 
+[![Gilded Rose](./gilded-rose.png)](https://wowpedia.fandom.com/wiki/Gilded_Rose)
+
 https://kata-log.rocks/gilded-rose-kata
 
 https://github.com/emilybache/GildedRose-Refactoring-Kata
